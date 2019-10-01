@@ -2,10 +2,11 @@
 
 
 
-Channel_secret = "da180eac5e665afbfc0a40232d524049"
+Channel_secret = "83af864e412a83c546e5bf9330adecdc"
 
 
-Channel_access_token = "tdW2cT7Rxu4MWnV3Z9nEy9EWIbsy3fFX8De+lX6xIiL5OU0YYLr5BugLvT3qZVNEtK9itMtnFcxkh0MFbisLCtmlHXWJHG43919vEHti6RnWPKJ6Cs3WfouwVwGntNL/zXhRSv3OTiefzpzXjUwsKQdB04t89/1O/w1cDnyilFU="
+Channel_access_token = "9VQ8Qr0WqXSatWwjDT+Pj/ksUDMdo8SzUzDS3Zl8lvh/E/dbxaTZTS0HmYzfGUPtm/6xJgYu5ibiL+/0lAOpBJlXA2xL8V+zPC6ZUsySnAiPPfpVWErBUDGrjhAMvjvKL+bBGfMqvGOQWzsLA1FK31GUYhWQfeY8sLGRXgo3xvw=
+"
 
 
-Basic_ID = "@108lsrxj"
+Basic_ID = "@555vfaox"
